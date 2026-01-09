@@ -137,9 +137,18 @@
 │ │ │ ├─┬ /Gathering
 │ │ │ │ └── /The_Vessel
 │ │ │ ├── /Voices
-│ │ │ ├── /Watchers
+│ │ │ ├── /Watcher_Identification
+│ │ │ ├── /About_Watchers
 │ │ │ ├── /Map
-│ │ │ └── /FAQ
+│ │ │ ├── /Curse_of_North
+│ │ │ ├── /Archived_Relics
+│ │ │ ├── /Svoyoss
+│ │ │ ├── /Ariph
+│ │ │ ├── /Useful_Information
+│ │ │ ├── /FAQ
+│ │ │ ├─┬ /Merch
+│ │ │ │ └── /Shirt_Info
+│ │ │ └── /Donate
 │ │ ├─┬ /Terminal_111
 │ │ │ ├─┬ /Terminal_111_Spine
 │ │ │ │ ├── /huh
@@ -285,13 +294,22 @@
 ├── /Thoughts
 ├── /Connect
 ├── /Assistance
+├── /Merch
+├── /Donate
+├── /quolle_cencuun_pellsen_en_somet_nac
 ├─┬ /Irentae
 │ └─┬ /Irentaex
 │   └─┬ /Irentaexx
 │     └─┬ /Depth000Start
 │       └─┬ /000_Center
 │         ├─┬ /000_Grave
-│         │ └── /000_Grave_Mistake
+│         │ └─┬ /000_Grave_Center
+│         │   ├─┬ /000_Grave_Sector_70021
+│         │   │ ├── /000_Grave_Sector_311340
+│         │   │ └─┬ /000_Grave_Mistake
+│         │   │   └─┬ /A_Dead_Place
+│         │   │     └── /000_Your_Grave
+│         │   └── /000_Grave_Sector_10031
 │         ├─┬ /000_Message
 │         │ ├── /000_Sellance
 │         │ ├── /000_4A-99
@@ -302,7 +320,10 @@
 │         └─┬ /000_Deeper
 │           └─┬ /000_Deeper_Still
 │             └─┬ /000_Until_You_See_It
-│               └── /000_Noble
+│               └─┬ /000_Noble
+│                 ├── /000_Noble_Sacrifice
+│                 ├── /000_What_are_you
+│                 └── /000_How_do_you_know
 └─┬ /00_Turn_Back
   └─┬ /00_Turn_back_Now
     └─┬ /00_No_Turning_Back
@@ -311,4 +332,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  308
+number of pages:  333
