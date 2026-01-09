@@ -14,11 +14,29 @@
 │ │ │ │ │ ├── /index.html
 │ │ │ │ │ └─┬ /00_Crossroad
 │ │ │ │ │   └─┬ /00_Crossroad2
-│ │ │ │ │     └── /00_Dark
+│ │ │ │ │     └─┬ /00_Dark
+│ │ │ │ │       └─┬ /00_A_Long_Path
+│ │ │ │ │         └─┬ /00_A_Long_Path_Gets_Longer
+│ │ │ │ │           └─┬ /TO_WILBELL_WITH_ALL_HASTE
+│ │ │ │ │             └─┬ /Have_Not_Forgotten
+│ │ │ │ │               └─┬ /REGRETREGREregretTREGRETREGRETREGRregretETREGRETREGRETREGRETREGRETREGRETregretREGRETREGRET
+│ │ │ │ │                 └─┬ /4ll_AAA_DReeeeAM22
+│ │ │ │ │                   └─┬ /All_A_Dreaaxmxm
+│ │ │ │ │                     └─┬ /Allll_AAAAA_DR3axmm
+│ │ │ │ │                       └─┬ /Another_Dream_In_This_Endless_Phantasmagoria
+│ │ │ │ │                         └─┬ /Don't_Be_Silly!
+│ │ │ │ │                           └─┬ /Let_Us_Meet
+│ │ │ │ │                             └─┬ /Meaning_Beyond_Compare
+│ │ │ │ │                               └─┬ /Meanings_Which_Lay_Beyond
+│ │ │ │ │                                 └─┬ /Which_Meanings_Lay_Beyond
+│ │ │ │ │                                   ├── /designated_disposal_node_by_order_of_null
+│ │ │ │ │                                   └── /We_Shall_Reveal_Even_In_Death
 │ │ │ │ ├─┬ /Interests
 │ │ │ │ │ ├── /frills
 │ │ │ │ │ ├── /dolls
-│ │ │ │ │ └── /endofdaylight
+│ │ │ │ │ ├── /endofdaylight
+│ │ │ │ │ └─┬ /Tae
+│ │ │ │ │   └── /Tae_Information
 │ │ │ │ ├─┬ /2245_2250
 │ │ │ │ │ ├─┬ /Terminal_111_Sky
 │ │ │ │ │ │ └─┬ /Terminal_111_Entity
@@ -255,4 +273,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  256
+number of pages:  274
