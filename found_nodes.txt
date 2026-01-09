@@ -105,18 +105,30 @@
 │ │ │ │ │     └── /The_Gate
 │ │ │ │ └── /Ressant
 │ │ │ ├─┬ /Books
-│ │ │ │ └─┬ /Stars_Bleed
-│ │ │ │   ├── /ChapterOne
-│ │ │ │   ├── /ChapterTwo
-│ │ │ │   └── /ChapterThree
+│ │ │ │ ├─┬ /Stars_Bleed
+│ │ │ │ │ ├── /ChapterOne
+│ │ │ │ │ ├── /ChapterTwo
+│ │ │ │ │ └── /ChapterThree
+│ │ │ │ └── /Worlds_End
 │ │ │ ├─┬ /Thoughts
 │ │ │ │ ├── /index
+│ │ │ │ ├── /blogthing1012024
+│ │ │ │ ├─┬ /001b_blogthought
+│ │ │ │ │ └── /Ariph
+│ │ │ │ ├── /update_post3
+│ │ │ │ ├── /update_post2
 │ │ │ │ ├── /update_post
 │ │ │ │ ├── /progress
 │ │ │ │ └─┬ /Thoughts2
-│ │ │ │   └── /messageave
+│ │ │ │   ├── /messageave
+│ │ │ │   └── /LOVE
 │ │ │ ├── /Connect
-│ │ │ ├── /Purpose
+│ │ │ ├─┬ /Llgyuun
+│ │ │ │ └── /Commune_with_Llgyuun
+│ │ │ ├─┬ /Purpose
+│ │ │ │ └── /Signals_of_Purpose
+│ │ │ ├── /About_Terminals
+│ │ │ ├── /About_Speakers
 │ │ │ ├── /Probedata
 │ │ │ ├── /Gathering
 │ │ │ ├── /CoS
@@ -295,4 +307,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  296
+number of pages:  308
