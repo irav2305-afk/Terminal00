@@ -64,7 +64,7 @@
 │ │ │ │ │   └─┬ /Yunar_unnce_prienst_breillen
 │ │ │ │ │     └── /The_Gate
 │ │ │ │ └── /Ressant
-│ │ │ ├─┬ /Angus's_Works
+│ │ │ ├─┬ /Books
 │ │ │ │ └─┬ /Stars_Bleed
 │ │ │ │   ├── /ChapterOne
 │ │ │ │   ├── /ChapterTwo
@@ -225,7 +225,7 @@
 ├── /Sol_onset
 ├── /Arcent
 ├── /About_Angus
-├── /Angus's_Works
+├── /Books
 ├── /Thoughts
 ├── /Connect
 ├── /Assistance
