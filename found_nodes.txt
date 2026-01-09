@@ -129,9 +129,13 @@
 │ │ │ │ └── /Signals_of_Purpose
 │ │ │ ├── /About_Terminals
 │ │ │ ├── /About_Speakers
-│ │ │ ├── /Probedata
-│ │ │ ├── /Gathering
+│ │ │ ├── /Gate_Information
 │ │ │ ├── /CoS
+│ │ │ ├── /Probe_Identification
+│ │ │ ├── /About_Probes
+│ │ │ ├── /Sounds
+│ │ │ ├─┬ /Gathering
+│ │ │ │ └── /The_Vessel
 │ │ │ ├── /Voices
 │ │ │ ├── /Watchers
 │ │ │ ├── /Map
