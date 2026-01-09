@@ -62,8 +62,7 @@
 │ │ │ │ ├─┬ /Path
 │ │ │ │ │ └─┬ /Path2
 │ │ │ │ │   └─┬ /Yunar_unnce_prienst_breillen
-│ │ │ │ │     └─┬ /The_Gate
-│ │ │ │ │       └── /Veyous_nac
+│ │ │ │ │     └── /The_Gate
 │ │ │ │ └── /Ressant
 │ │ │ ├─┬ /Angus's_Works
 │ │ │ │ └─┬ /Stars_Bleed
@@ -256,4 +255,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  257
+number of pages:  256
