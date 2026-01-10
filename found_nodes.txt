@@ -321,7 +321,78 @@
 │         │   │             ├─┬ /000_Sector_81230440
 │         │   │             │ └─┬ /000_Stop
 │         │   │             │   └── /000_Wait
-│         │   │             └── /000_Sector_333335
+│         │   │             ├─┬ /000_Sector_333335
+│         │   │             │ └─┬ /000_Sector_333336
+│         │   │             │   └── /000_Sector_333337
+│         │   │             └─┬ /000_Archive_1
+│         │   │               └─┬ /000_Archive_2
+│         │   │                 ├─┬ /000_Archive_3
+│         │   │                 │ └─┬ /000_Archive_4
+│         │   │                 │   └─┬ /000_Archive_5
+│         │   │                 │     ├── /000_Archive_6
+│         │   │                 │     ├── /000_Archiveee
+│         │   │                 │     └─┬ /000_Ar0chivx1e3e1e
+│         │   │                 │       └─┬ /e1e3e1xvihc0rA_000
+│         │   │                 │         └── /000_Archive_Watchers
+│         │   │                 └─┬ /77777_Years
+│         │   │                   └─┬ /77777_Years_Later
+│         │   │                     └─┬ /77777_Years_Again
+│         │   │                       └─┬ /77777_Years_Until
+│         │   │                         ├── /77777_Years_Wasted
+│         │   │                         ├─┬ /77777_Years_Gone
+│         │   │                         │ └─┬ /Terminal_82041_Hub
+│         │   │                         │   ├─┬ /Terminal_82041_Subhub
+│         │   │                         │   │ └─┬ /Terminal_82041_Subhub4
+│         │   │                         │   │   ├─┬ /Terminal_82041_Sadnesshub
+│         │   │                         │   │   │ ├─┬ /Terminal_82041_All_is_fading
+│         │   │                         │   │   │ │ └─┬ /Terminal_82041_All_is_waning
+│         │   │                         │   │   │ │   └─┬ /Terminal_82041_That_I_shall_not_be
+│         │   │                         │   │   │ │     └─┬ /Terminal_82041_Is_what_Im_praying
+│         │   │                         │   │   │ │       ├── /Terminal_82041_Praying_to_the_stars
+│         │   │                         │   │   │ │       └─┬ /Terminal_82041_And_falling_I_see
+│         │   │                         │   │   │ │         └─┬ /Terminal_82041_Ah_its_raining
+│         │   │                         │   │   │ │           └─┬ /Terminal_82041_Open_Ocean
+│         │   │                         │   │   │ │             ├── /Terminal_82041_Sunnull
+│         │   │                         │   │   │ │             ├── /Terminal_82041_Gloomy_Sea
+│         │   │                         │   │   │ │             └── /Terminal_82041_Currents
+│         │   │                         │   │   │ └─┬ /Terminal_82041_Subhub2
+│         │   │                         │   │   │   └─┬ /Terminal_82041_Assistance
+│         │   │                         │   │   │     ├─┬ /Terminal_82041_Twintail_Information
+│         │   │                         │   │   │     │ └─┬ /Terminal_82041_FractalPath
+│         │   │                         │   │   │     │   └─┬ /Terminal_82041_FractalExpanse
+│         │   │                         │   │   │     │     └─┬ /Terminal_82041_FractalExpanse_2
+│         │   │                         │   │   │     │       └─┬ /Terminal_82041_FractalExpanse_3
+│         │   │                         │   │   │     │         └─┬ /Terminal_82041_FractalExpanse_4
+│         │   │                         │   │   │     │           └─┬ /Terminal_82041_FractalExpanse_5
+│         │   │                         │   │   │     │             └─┬ /Terminal_82041_FractalExpanse_6
+│         │   │                         │   │   │     │               └─┬ /Terminal_82041_FractalExpanse_7
+│         │   │                         │   │   │     │                 └─┬ /Terminal_82041_FractalExpanse_8
+│         │   │                         │   │   │     │                   └─┬ /Terminal_82041_FractalExpanse_9
+│         │   │                         │   │   │     │                     └─┬ /Terminal_82041_FractalExpanse_10
+│         │   │                         │   │   │     │                       └─┬ /Terminal_82041_FractalExpanse_11
+│         │   │                         │   │   │     │                         └─┬ /Terminal_82041_FractalExpanse_12
+│         │   │                         │   │   │     │                           └─┬ /Terminal_82041_FractalExpanse_13
+│         │   │                         │   │   │     │                             └─┬ /Terminal_82041_FractalExpanse_14
+│         │   │                         │   │   │     │                               └─┬ /Terminal_82041_FractalExpanse_15
+│         │   │                         │   │   │     │                                 └─┬ /Terminal_82041_FractalExpanse_16
+│         │   │                         │   │   │     │                                   └── /Terminal_82041_FractalExpanse_17
+│         │   │                         │   │   │     ├── /Terminal_82041_Useful_Information
+│         │   │                         │   │   │     ├── /Terminal_82041_Fang_Information
+│         │   │                         │   │   │     ├─┬ /Terminal_82041_ARM_702
+│         │   │                         │   │   │     │ ├─┬ /Terminal_82041_ARM_506
+│         │   │                         │   │   │     │ │ └── /Terminal_82041_ARM_unknown
+│         │   │                         │   │   │     │ ├── /Terminal_82041_ARM_606
+│         │   │                         │   │   │     │ └── /Terminal_82041_ARM_5
+│         │   │                         │   │   │     ├─┬ /Terminal_82041_om
+│         │   │                         │   │   │     │ └─┬ /Terminal_82041_om2
+│         │   │                         │   │   │     │   └─┬ /Terminal_82041_om2g
+│         │   │                         │   │   │     │     └─┬ /Terminal_82041_om2gv
+│         │   │                         │   │   │     │       └─┬ /Terminal_82041_om2gv5
+│         │   │                         │   │   │     │         └── /Terminal_82041_Probing_the_end
+│         │   │                         │   │   │     └── /Terminal_82041_Hint
+│         │   │                         │   │   └── /Terminal_82041_Subhub5
+│         │   │                         │   └── /Terminal_82041_Subhub3
+│         │   │                         └── /77777_Years_Passed
 │         │   └── /000_Grave_Sector_10031
 │         ├─┬ /000_Message
 │         │ ├── /000_Sellance
@@ -345,4 +416,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  341
+number of pages:  417
