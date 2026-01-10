@@ -354,7 +354,12 @@
 │         │   │                         │   │   │ │           └─┬ /Terminal_82041_Open_Ocean
 │         │   │                         │   │   │ │             ├── /Terminal_82041_Sunnull
 │         │   │                         │   │   │ │             ├── /Terminal_82041_Gloomy_Sea
-│         │   │                         │   │   │ │             └── /Terminal_82041_Currents
+│         │   │                         │   │   │ │             └─┬ /Terminal_82041_Currents
+│         │   │                         │   │   │ │               ├── /Terminal_82041_Side_Currents
+│         │   │                         │   │   │ │               ├─┬ /Terminal_82041_Chill
+│         │   │                         │   │   │ │               │ └── /Terminal_82041_Chill2
+│         │   │                         │   │   │ │               └─┬ /Terminal_82041_Dark_Currents
+│         │   │                         │   │   │ │                 └─┬ /Terminal_82041_Depths
 │         │   │                         │   │   │ └─┬ /Terminal_82041_Subhub2
 │         │   │                         │   │   │   └─┬ /Terminal_82041_Assistance
 │         │   │                         │   │   │     ├─┬ /Terminal_82041_Twintail_Information
@@ -416,4 +421,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  417
+number of pages:  422
