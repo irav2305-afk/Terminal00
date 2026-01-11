@@ -404,7 +404,30 @@
 │         │   │                         │   │   │ │                   │       │     └─┬ /Terminal_82041_Underwater_Passage_Darker
 │         │   │                         │   │   │ │                   │       │       └─┬ /Terminal_82041_Underwater_Passage_Darker2
 │         │   │                         │   │   │ │                   │       │         └── /Terminal_82041_Underwater_Passage_Darker3
-│         │   │                         │   │   │ │                   │       └── /Terminal_82041_Cute_Hub
+│         │   │                         │   │   │ │                   │       └─┬ /Terminal_82041_Cute_Hub
+│         │   │                         │   │   │ │                   │         ├─┬ /Terminal_82041_Cute1
+│         │   │                         │   │   │ │                   │         │ ├─┬ /Terminal_82041_Cute2
+│         │   │                         │   │   │ │                   │         │ │ └─┬ /Terminal_82041_Sigils
+│         │   │                         │   │   │ │                   │         │ │   └─┬ /Terminal_82041_Sigil_Expanse
+│         │   │                         │   │   │ │                   │         │ │     ├─┬ /Terminal_82041_Sigil_Expanse2
+│         │   │                         │   │   │ │                   │         │ │     │ ├─┬ /Terminal_82041_Sigil_Expanse_Holy
+│         │   │                         │   │   │ │                   │         │ │     │ │ ├─┬ /Terminal_82041_Sigil_Expanse_Holy2
+│         │   │                         │   │   │ │                   │         │ │     │ │ │ └─┬ /Terminal_82041_Sigil_Holy_Eggs
+│         │   │                         │   │   │ │                   │         │ │     │ │ │   └─┬ /Terminal_82041_Sigil_Blessed_Expanse
+│         │   │                         │   │   │ │                   │         │ │     │ │ │     └── /Terminal_82041_Sigil_Holy_Worm
+│         │   │                         │   │   │ │                   │         │ │     │ │ ├── /Terminal_82041_Sigil_Expanse_Holy_Offering2
+│         │   │                         │   │   │ │                   │         │ │     │ │ ├── /Terminal_82041_Sigil_Expanse7
+│         │   │                         │   │   │ │                   │         │ │     │ │ ├── /Terminal_82041_Sigil_Expanse6
+│         │   │                         │   │   │ │                   │         │ │     │ │ └── /Terminal_82041_Sigil_Expanse5
+│         │   │                         │   │   │ │                   │         │ │     │ └── /Terminal_82041_Sigil_Expanse_Holy_Offering
+│         │   │                         │   │   │ │                   │         │ │     ├── /Terminal_82041_Sigil_Expanse3
+│         │   │                         │   │   │ │                   │         │ │     └── /Terminal_82041_Sigil_Expanse4
+│         │   │                         │   │   │ │                   │         │ └─┬ /Terminal_82041_Cute4
+│         │   │                         │   │   │ │                   │         │   └─┬ /Terminal_82041_Moonlight
+│         │   │                         │   │   │ │                   │         │     └─┬ /Terminal_1171773_Start
+│         │   │                         │   │   │ │                   │         │       └── /Terminal_1171773_agctaaaaccccuf
+│         │   │                         │   │   │ │                   │         ├── /Terminal_82041_Cute3
+│         │   │                         │   │   │ │                   │         └── /Terminal_82041_Cute5
 │         │   │                         │   │   │ │                   └─┬ /Terminal_82041_Moving_Depths
 │         │   │                         │   │   │ │                     └── /Terminal_82041_Lonely_Depths
 │         │   │                         │   │   │ └─┬ /Terminal_82041_Subhub2
@@ -468,4 +491,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  469
+number of pages:  492
