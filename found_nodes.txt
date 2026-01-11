@@ -360,6 +360,53 @@
 │         │   │                         │   │   │ │               │ └── /Terminal_82041_Chill2
 │         │   │                         │   │   │ │               └─┬ /Terminal_82041_Dark_Currents
 │         │   │                         │   │   │ │                 └─┬ /Terminal_82041_Depths
+│         │   │                         │   │   │ │                   ├─┬ /Terminal_82041_Dark_Depths
+│         │   │                         │   │   │ │                   │ └─┬ /Terminal_82041_Watchful_Depths
+│         │   │                         │   │   │ │                   │   └─┬ /Terminal_82041_Deep_Depths
+│         │   │                         │   │   │ │                   │     └─┬ /Terminal_82041_Dead_Depths
+│         │   │                         │   │   │ │                   │       ├── /Terminal_82041_Unholy_Depths
+│         │   │                         │   │   │ │                   │       └─┬ /Terminal_82041_Hungry_Depths
+│         │   │                         │   │   │ │                   │         └── /Terminal_82041_Cursed_Depths
+│         │   │                         │   │   │ │                   ├─┬ /Terminal_82041_Crowded_Depths
+│         │   │                         │   │   │ │                   │ ├── /Terminal_82041_Loving_Depths
+│         │   │                         │   │   │ │                   │ └─┬ /Terminal_82041_Cold_Depths
+│         │   │                         │   │   │ │                   │   └─┬ /Terminal_82041_Sad_Depths
+│         │   │                         │   │   │ │                   │     └─┬ /Terminal_82041_Shore_on_the_Oceans_Floor
+│         │   │                         │   │   │ │                   │       ├── /Terminal_82041_Fyuumu
+│         │   │                         │   │   │ │                   │       ├─┬ /Terminal_82041_Underwater_Cave_Entrance
+│         │   │                         │   │   │ │                   │       │ └─┬ /Terminal_82041_Underwater_Passage
+│         │   │                         │   │   │ │                   │       │   └─┬ /Terminal_82041_Underwater_Passage_Darkens
+│         │   │                         │   │   │ │                   │       │     ├─┬ /Terminal_82041_Underwater_Passage_Dark
+│         │   │                         │   │   │ │                   │       │     │ └─┬ /Terminal_82041_Underwater_Passage_Dark_er
+│         │   │                         │   │   │ │                   │       │     │   └─┬ /Terminal_82041_Underwater_Passage_Air_Pocket
+│         │   │                         │   │   │ │                   │       │     │     ├─┬ /Terminal_82041_Underwater_Passage_Forward
+│         │   │                         │   │   │ │                   │       │     │     │ └─┬ /Terminal_82041_Underwater_Passage_Forward2
+│         │   │                         │   │   │ │                   │       │     │     │   └─┬ /Terminal_82041_Underwater_Passage_Forward3
+│         │   │                         │   │   │ │                   │       │     │     │     └─┬ /Terminal_82041_Underwater_Passage_77Forward
+│         │   │                         │   │   │ │                   │       │     │     │       └─┬ /Terminal_82041_Cave_Passageway
+│         │   │                         │   │   │ │                   │       │     │     │         └─┬ /Terminal_82041_Cave_Passageway2
+│         │   │                         │   │   │ │                   │       │     │     │           └─┬ /Terminal_82041_Cave_Passageway3
+│         │   │                         │   │   │ │                   │       │     │     │             └─┬ /Terminal_82041_Cave_Passageway4
+│         │   │                         │   │   │ │                   │       │     │     │               └─┬ /Terminal_82041_Cave_Passageway5
+│         │   │                         │   │   │ │                   │       │     │     │                 └─┬ /Terminal_82041_Cave_Passageway6
+│         │   │                         │   │   │ │                   │       │     │     │                   └─┬ /Terminal_82041_Cave_Opens_up
+│         │   │                         │   │   │ │                   │       │     │     │                     ├─┬ /Terminal_82041_Cave_Cave
+│         │   │                         │   │   │ │                   │       │     │     │                     │ └── /Terminal_82041_Cave_Moonstone
+│         │   │                         │   │   │ │                   │       │     │     │                     ├─┬ /Terminal_82041_Cave_A
+│         │   │                         │   │   │ │                   │       │     │     │                     │ └─┬ /Terminal_82041_Cave_SSStag
+│         │   │                         │   │   │ │                   │       │     │     │                     │   └─┬ /Terminal_82041_Cave_SSShadow
+│         │   │                         │   │   │ │                   │       │     │     │                     │     └── /Terminal_82041_Cave_SSShadows
+│         │   │                         │   │   │ │                   │       │     │     │                     └─┬ /Terminal_82041_Cave_W
+│         │   │                         │   │   │ │                   │       │     │     │                       └─┬ /Terminal_82041_Cave_itsdark
+│         │   │                         │   │   │ │                   │       │     │     │                         └── /Terminal_82041_Cave_Crystalized_Eyes
+│         │   │                         │   │   │ │                   │       │     │     ├── /Terminal_82041_Underwater_Passage_Dark_qw
+│         │   │                         │   │   │ │                   │       │     │     └── /Terminal_82041_Underwater_Passage_Dark_qw2
+│         │   │                         │   │   │ │                   │       │     └─┬ /Terminal_82041_Underwater_Passage_Darker
+│         │   │                         │   │   │ │                   │       │       └─┬ /Terminal_82041_Underwater_Passage_Darker2
+│         │   │                         │   │   │ │                   │       │         └── /Terminal_82041_Underwater_Passage_Darker3
+│         │   │                         │   │   │ │                   │       └── /Terminal_82041_Cute_Hub
+│         │   │                         │   │   │ │                   └─┬ /Terminal_82041_Moving_Depths
+│         │   │                         │   │   │ │                     └── /Terminal_82041_Lonely_Depths
 │         │   │                         │   │   │ └─┬ /Terminal_82041_Subhub2
 │         │   │                         │   │   │   └─┬ /Terminal_82041_Assistance
 │         │   │                         │   │   │     ├─┬ /Terminal_82041_Twintail_Information
@@ -421,4 +468,4 @@
           └─┬ /00_Teeth
             └─┬ /Truth
               └── /The_One_WILL_Become_Whole_Once_More
-number of pages:  422
+number of pages:  469
